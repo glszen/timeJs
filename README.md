@@ -1,4 +1,4 @@
-# Welcome App
+# Timer App
 
 Welcome App is a simple web project where users can enter their name on a landing page and receive a personalized greeting. The application features a live timer that shows the current time, and a "Go Back" button to return to the initial state.
 
